@@ -3,6 +3,8 @@
 ## Table of Contents
 - [About Me](#about-me)
 - [My Programming Journey](#my-programming-journey)
+- [My Projects](#my-projects)
+- [Goals](#goals)
 - [Fun Facts](#fun-facts)
 - [Contact](#contact)
 
@@ -13,11 +15,11 @@
 Hi! I'm **Tim Nguyen**, a computer science student at UCSD.
 
 I'm originally from **Orange County, California**. My hobbies include: 
-- going to the gym
-- [cooking](./assets/IMG_8342.JPG)
-- playing video games
-- [trying new restaurants](./assets/IMG_7563.JPG)
-- playing pickleball sometimes
+1. going to the gym
+2. [cooking](./assets/IMG_8342.JPG)
+3. playing video games
+4. [trying new restaurants](./assets/IMG_7563.JPG)
+5. playing pickleball sometimes
 
 <div style="display:flex; gap:10px; align-items:flex-start">
   <figure style="margin:0; width:25%">
@@ -33,8 +35,14 @@ I'm originally from **Orange County, California**. My hobbies include:
 
 I began coding in highschool, in AP Computer Science. I built simple projects like tic-tac-toe and a webpage.
 
+Since then, I've experienced new courses, hackathons, and personal projects. I'm currently working on a nutrition tracker:
 
-Since then, I've experienced new courses, hackathons, and personal projects. I'm currently working on a nutrition tracker.
+```python
+def log_meal(food, calories):
+    print(f"Logged: {food} — {calories} kcal")
+```
+
+
 
 ---
 
@@ -48,6 +56,20 @@ Here are a few things I've built or am currently working on:
 
 ---
 
+## Goals
+
+### This Semester
+- [x] Set up my GitHub profile
+- [x] Learn the basics of Git branching
+- [ ] Complete all programming assignments on time
+- [ ] Build a full-stack web app from scratch
+
+### Long-Term
+- [ ] Land a software engineering internship
+- [ ] Publish a mobile app
+
+---
+
 ## Fun Facts
 
 Here are some fun facts about me:
@@ -56,6 +78,7 @@ Here are some fun facts about me:
 - 📺 Currently watching *One Piece*. I'm on episode 650
 - 🎮 I'm immortal on Valorant
 - 🥩 I make **excellent** steak
+> Better than restaurants I swear
 
 ---
 
